@@ -44,7 +44,6 @@ It combines **mathematical logic** and **artistic creativity** to generate abstr
    ```bash
    python vasarely.py
 
-
 ## 👩‍🎨 Inspiration
 
 The project is inspired by Victor Vasarely (1906–1997), a pioneer of Op Art (Optical Art).
